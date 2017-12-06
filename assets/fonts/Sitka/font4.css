@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'SitkaBanner-Bold';
+  src: url('SitkaBanner-Bold.eot');
+  src: url('SitkaBanner-Bold.woff2') format('woff2'),
+       url('SitkaBanner-Bold.woff') format('woff'),
+       url('SitkaBanner-Bold.ttf') format('truetype'),
+       url('SitkaBanner-Bold.svg#SitkaBanner-Bold') format('svg'),
+       url('SitkaBanner-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaDisplay-Bold';
+  src: url('SitkaDisplay-Bold.eot');
+  src: url('SitkaDisplay-Bold.woff2') format('woff2'),
+       url('SitkaDisplay-Bold.woff') format('woff'),
+       url('SitkaDisplay-Bold.ttf') format('truetype'),
+       url('SitkaDisplay-Bold.svg#SitkaDisplay-Bold') format('svg'),
+       url('SitkaDisplay-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaHeading-Bold';
+  src: url('SitkaHeading-Bold.eot');
+  src: url('SitkaHeading-Bold.woff2') format('woff2'),
+       url('SitkaHeading-Bold.woff') format('woff'),
+       url('SitkaHeading-Bold.ttf') format('truetype'),
+       url('SitkaHeading-Bold.svg#SitkaHeading-Bold') format('svg'),
+       url('SitkaHeading-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaSmall-Bold';
+  src: url('SitkaSmall-Bold.eot');
+  src: url('SitkaSmall-Bold.woff2') format('woff2'),
+       url('SitkaSmall-Bold.woff') format('woff'),
+       url('SitkaSmall-Bold.ttf') format('truetype'),
+       url('SitkaSmall-Bold.svg#SitkaSmall-Bold') format('svg'),
+       url('SitkaSmall-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaSubheading-Bold';
+  src: url('SitkaSubheading-Bold.eot');
+  src: url('SitkaSubheading-Bold.woff2') format('woff2'),
+       url('SitkaSubheading-Bold.woff') format('woff'),
+       url('SitkaSubheading-Bold.ttf') format('truetype'),
+       url('SitkaSubheading-Bold.svg#SitkaSubheading-Bold') format('svg'),
+       url('SitkaSubheading-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaText-Bold';
+  src: url('SitkaText-Bold.eot');
+  src: url('SitkaText-Bold.woff2') format('woff2'),
+       url('SitkaText-Bold.woff') format('woff'),
+       url('SitkaText-Bold.ttf') format('truetype'),
+       url('SitkaText-Bold.svg#SitkaText-Bold') format('svg'),
+       url('SitkaText-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

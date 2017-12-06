@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'SitkaBanner-BoldItalic';
+  src: url('SitkaBanner-BoldItalic.eot');
+  src: url('SitkaBanner-BoldItalic.woff2') format('woff2'),
+       url('SitkaBanner-BoldItalic.woff') format('woff'),
+       url('SitkaBanner-BoldItalic.ttf') format('truetype'),
+       url('SitkaBanner-BoldItalic.svg#SitkaBanner-BoldItalic') format('svg'),
+       url('SitkaBanner-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaDisplay-BoldItalic';
+  src: url('./SitkaDisplay-BoldItalic.eot');
+  src: url('./SitkaDisplay-BoldItalic.woff2') format('woff2'),
+       url('./SitkaDisplay-BoldItalic.woff') format('woff'),
+       url('./SitkaDisplay-BoldItalic.ttf') format('truetype'),
+       url('./SitkaDisplay-BoldItalic.svg#SitkaDisplay-BoldItalic') format('svg'),
+       url('./SitkaDisplay-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaHeading-BoldItalic';
+  src: url('SitkaHeading-BoldItalic.eot');
+  src: url('SitkaHeading-BoldItalic.woff2') format('woff2'),
+       url('SitkaHeading-BoldItalic.woff') format('woff'),
+       url('SitkaHeading-BoldItalic.ttf') format('truetype'),
+       url('SitkaHeading-BoldItalic.svg#SitkaHeading-BoldItalic') format('svg'),
+       url('SitkaHeading-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaSmall-BoldItalic';
+  src: url('SitkaSmall-BoldItalic.eot');
+  src: url('SitkaSmall-BoldItalic.woff2') format('woff2'),
+       url('SitkaSmall-BoldItalic.woff') format('woff'),
+       url('SitkaSmall-BoldItalic.ttf') format('truetype'),
+       url('SitkaSmall-BoldItalic.svg#SitkaSmall-BoldItalic') format('svg'),
+       url('SitkaSmall-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaSubheading-BoldItalic';
+  src: url('SitkaSubheading-BoldItalic.eot');
+  src: url('SitkaSubheading-BoldItalic.woff2') format('woff2'),
+       url('SitkaSubheading-BoldItalic.woff') format('woff'),
+       url('SitkaSubheading-BoldItalic.ttf') format('truetype'),
+       url('SitkaSubheading-BoldItalic.svg#SitkaSubheading-BoldItalic') format('svg'),
+       url('SitkaSubheading-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaText-BoldItalic';
+  src: url('SitkaText-BoldItalic.eot');
+  src: url('SitkaText-BoldItalic.woff2') format('woff2'),
+       url('SitkaText-BoldItalic.woff') format('woff'),
+       url('SitkaText-BoldItalic.ttf') format('truetype'),
+       url('SitkaText-BoldItalic.svg#SitkaText-BoldItalic') format('svg'),
+       url('SitkaText-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

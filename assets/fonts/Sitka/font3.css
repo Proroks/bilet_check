@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'SitkaBanner-Italic';
+  src: url('SitkaBanner-Italic.eot');
+  src: url('SitkaBanner-Italic.woff2') format('woff2'),
+       url('SitkaBanner-Italic.woff') format('woff'),
+       url('SitkaBanner-Italic.ttf') format('truetype'),
+       url('SitkaBanner-Italic.svg#SitkaBanner-Italic') format('svg'),
+       url('SitkaBanner-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaDisplay-Italic';
+  src: url('SitkaDisplay-Italic.eot');
+  src: url('SitkaDisplay-Italic.woff2') format('woff2'),
+       url('SitkaDisplay-Italic.woff') format('woff'),
+       url('SitkaDisplay-Italic.ttf') format('truetype'),
+       url('SitkaDisplay-Italic.svg#SitkaDisplay-Italic') format('svg'),
+       url('SitkaDisplay-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaHeading-Italic';
+  src: url('SitkaHeading-Italic.eot');
+  src: url('SitkaHeading-Italic.woff2') format('woff2'),
+       url('SitkaHeading-Italic.woff') format('woff'),
+       url('SitkaHeading-Italic.ttf') format('truetype'),
+       url('SitkaHeading-Italic.svg#SitkaHeading-Italic') format('svg'),
+       url('SitkaHeading-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaSmall-Italic';
+  src: url('SitkaSmall-Italic.eot');
+  src: url('SitkaSmall-Italic.woff2') format('woff2'),
+       url('SitkaSmall-Italic.woff') format('woff'),
+       url('SitkaSmall-Italic.ttf') format('truetype'),
+       url('SitkaSmall-Italic.svg#SitkaSmall-Italic') format('svg'),
+       url('SitkaSmall-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaSubheading-Italic';
+  src: url('SitkaSubheading-Italic.eot');
+  src: url('SitkaSubheading-Italic.woff2') format('woff2'),
+       url('SitkaSubheading-Italic.woff') format('woff'),
+       url('SitkaSubheading-Italic.ttf') format('truetype'),
+       url('SitkaSubheading-Italic.svg#SitkaSubheading-Italic') format('svg'),
+       url('SitkaSubheading-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SitkaText-Italic';
+  src: url('SitkaText-Italic.eot');
+  src: url('SitkaText-Italic.woff2') format('woff2'),
+       url('SitkaText-Italic.woff') format('woff'),
+       url('SitkaText-Italic.ttf') format('truetype'),
+       url('SitkaText-Italic.svg#SitkaText-Italic') format('svg'),
+       url('SitkaText-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
